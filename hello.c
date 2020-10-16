@@ -4,5 +4,5 @@ void main()
 {
 char a[100];
 gets(a);
-printf("hello world! for ");
+printf("hello world! for hack");
 }
